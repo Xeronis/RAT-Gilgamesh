@@ -1,4 +1,5 @@
 [stream-properties]
 Audio/Sink:node.name:auto_null={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
 Output/Audio:application.name:Firefox={"mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000}
+Output/Audio:application.name:paplay={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "mute":false, "channelMap":["FL", "FR"]}
 Output/Audio:application.name:speech-dispatcher-dummy={"channelVolumes":[1.000000], "volume":1.000000, "channelMap":["MONO"], "mute":false}
