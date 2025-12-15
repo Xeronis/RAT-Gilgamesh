@@ -1,0 +1,100 @@
+{
+   "checksum": "c4a272443c2976dd86dad89731dd53ed",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "5e082859-5678-49e0-b569-3f45a1f75634",
+            "id": "5",
+            "name": "Kali Linux",
+            "type": "url",
+            "url": "https://www.kali.org/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "22f2ec1b-5194-4169-8b66-c1d6feb68795",
+            "id": "6",
+            "name": "Kali Tools",
+            "type": "url",
+            "url": "https://www.kali.org/tools/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "98a4db13-c463-4720-ac92-c72b0be18188",
+            "id": "7",
+            "name": "Kali Docs",
+            "type": "url",
+            "url": "https://www.kali.org/docs/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "984d5ca8-dcc1-4dc5-b16d-c2b064a5a2c0",
+            "id": "8",
+            "name": "Kali Forums",
+            "type": "url",
+            "url": "https://forums.kali.org/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "bf47f43c-0ef4-4528-af55-a6eed21a5a4b",
+            "id": "9",
+            "name": "Kali NetHunter",
+            "type": "url",
+            "url": "https://www.kali.org/kali-nethunter/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "fa29ad12-f979-4eaa-aee0-7ac9e194deb9",
+            "id": "10",
+            "name": "OffSec",
+            "type": "url",
+            "url": "https://www.offsec.com/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "bf64e996-cd06-4b5b-a8e3-583535932ced",
+            "id": "11",
+            "name": "Exploit-DB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "7510e6bc-8ccf-438b-814e-b0ab38c3e18e",
+            "id": "12",
+            "name": "Google Hacking DB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/google-hacking-database"
+         } ],
+         "date_added": "13398569964269656",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13398569964279126",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13398569964279135",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

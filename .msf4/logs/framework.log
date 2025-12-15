@@ -1,0 +1,5 @@
+[08/01/2025 21:15:36] [e(0)] core: Failed to connect to the database: No database YAML file
+[08/01/2025 21:16:12] [e(0)] core: Failed to open history file: /home/xeronis/.msf4/history with error: No such file or directory @ rb_sysopen - /home/xeronis/.msf4/history
+[08/01/2025 21:16:30] [e(0)] core: Module exploit/multi/hanlder not found, and no loading errors found. If you're using a custom module refer to our wiki: https://docs.metasploit.com/docs/using-metasploit/intermediate/running-private-modules.html
+[08/01/2025 21:17:59] [e(0)] core: Failed to open history file: /home/xeronis/.msf4/meterpreter_history with error: No such file or directory @ rb_sysopen - /home/xeronis/.msf4/meterpreter_history
+[08/01/2025 21:21:09] [w(0)] core: Session 1 has died

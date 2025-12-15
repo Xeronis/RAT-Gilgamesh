@@ -1,0 +1,13 @@
+[CLIENT] 0x1e00045
+  [CLIENT_ID] 2bada398e-34ca-4f64-ad6c-62aa3a577ea4
+  [CLIENT_LEADER] 0x1e00001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] firefox-esr
+  [WM_NAME] DVWA Security :: Damn Vulnerable Web Application (DVWA) v1.10 *Development* — Mozilla Firefox
+  [WM_COMMAND] (1) "firefox-esr"
+  [GEOMETRY] (283,32,1328,860)
+  [GEOMETRY-MAXIMIZED] (283,32,1328,860)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080
